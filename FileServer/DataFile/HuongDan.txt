@@ -1,0 +1,5 @@
+ "socket closed" error means that the connection has been terminated, however, no specific reason was provided/returned.
+The "socket closed" error indicates that the connection was lost outside of the control or awareness of the Driver.
+
+There can be a number of reasons for that, for example:
+network failure
